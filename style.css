@@ -109,6 +109,11 @@ body{
 
 
 @media (max-width: 473px) {
+        .card{
+          height: 90%;
+          width: 350px;
+          margin: 16px auto;
+        }
           .search button{
                 height: 0;
                 width: 0;

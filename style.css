@@ -115,6 +115,11 @@ body{
           margin: 16px auto;
         }
 
+        .col img{
+          width: 20px;
+          margin-right: 10px;
+}
+
         .search input{
           width: 70%;
         }

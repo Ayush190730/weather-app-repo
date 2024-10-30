@@ -113,14 +113,18 @@ body {
     margin: 16px auto;
   }
 
+  .details {
+    padding: 6px 0px;
+  }
+
   .col img {
-    width: 20px;
+    width: 35px;
     margin-right: 10px;
   }
 
   .humidity,
   .wind {
-    font-size: 14px;
+    font-size: 20px;
     margin-top: -6px;
   }
 

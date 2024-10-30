@@ -114,6 +114,10 @@ body{
           width: 350px;
           margin: 16px auto;
         }
+
+        .serach input{
+          width: 70%;
+        }
           .search button{
                 height: 0;
                 width: 0;
